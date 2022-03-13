@@ -1,0 +1,15 @@
+*.out
+*~
+#*#
+*.swp
+*.a
+*.o
+vgcore*
+*.gcno
+*.gcda
+*.html
+gcovr*
+unit_tests
+bsq
+.clangd
+compile_commands.json
